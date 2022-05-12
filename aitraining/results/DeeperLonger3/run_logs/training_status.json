@@ -1,0 +1,29 @@
+{
+    "My Behavior": {
+        "checkpoints": [
+            {
+                "steps": 443265,
+                "file_path": "results/DeeperLonger3/My Behavior/My Behavior-443265.onnx",
+                "reward": 43.16500174999237,
+                "creation_time": 1649382468.135023,
+                "auxillary_file_paths": [
+                    "results/DeeperLonger3/My Behavior/My Behavior-443265.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 443265,
+            "file_path": "results/DeeperLonger3/My Behavior.onnx",
+            "reward": 43.16500174999237,
+            "creation_time": 1649382468.135023,
+            "auxillary_file_paths": [
+                "results/DeeperLonger3/My Behavior/My Behavior-443265.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.8.1+cu102"
+    }
+}
