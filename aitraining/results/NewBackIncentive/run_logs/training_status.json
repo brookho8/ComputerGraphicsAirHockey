@@ -1,0 +1,65 @@
+{
+    "My Behavior": {
+        "checkpoints": [
+            {
+                "steps": 5999981,
+                "file_path": "results/NewBackIncentive/My Behavior/My Behavior-5999981.onnx",
+                "reward": 45.16171548051654,
+                "creation_time": 1650657703.5176873,
+                "auxillary_file_paths": [
+                    "results/NewBackIncentive/My Behavior/My Behavior-5999981.pt"
+                ]
+            },
+            {
+                "steps": 6499904,
+                "file_path": "results/NewBackIncentive/My Behavior/My Behavior-6499904.onnx",
+                "reward": 127.58931178106388,
+                "creation_time": 1650660519.1065183,
+                "auxillary_file_paths": [
+                    "results/NewBackIncentive/My Behavior/My Behavior-6499904.pt"
+                ]
+            },
+            {
+                "steps": 6999986,
+                "file_path": "results/NewBackIncentive/My Behavior/My Behavior-6999986.onnx",
+                "reward": 134.0588806025187,
+                "creation_time": 1650663318.8823895,
+                "auxillary_file_paths": [
+                    "results/NewBackIncentive/My Behavior/My Behavior-6999986.pt"
+                ]
+            },
+            {
+                "steps": 7499965,
+                "file_path": "results/NewBackIncentive/My Behavior/My Behavior-7499965.onnx",
+                "reward": null,
+                "creation_time": 1650666114.9771764,
+                "auxillary_file_paths": [
+                    "results/NewBackIncentive/My Behavior/My Behavior-7499965.pt"
+                ]
+            },
+            {
+                "steps": 7906637,
+                "file_path": "results/NewBackIncentive/My Behavior/My Behavior-7906637.onnx",
+                "reward": 324.2625070810318,
+                "creation_time": 1650668445.9595983,
+                "auxillary_file_paths": [
+                    "results/NewBackIncentive/My Behavior/My Behavior-7906637.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 7906637,
+            "file_path": "results/NewBackIncentive/My Behavior.onnx",
+            "reward": 324.2625070810318,
+            "creation_time": 1650668445.9595983,
+            "auxillary_file_paths": [
+                "results/NewBackIncentive/My Behavior/My Behavior-7906637.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.8.1+cu102"
+    }
+}

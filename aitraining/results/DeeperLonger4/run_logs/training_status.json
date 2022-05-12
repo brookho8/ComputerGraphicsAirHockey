@@ -1,0 +1,65 @@
+{
+    "My Behavior": {
+        "checkpoints": [
+            {
+                "steps": 7499975,
+                "file_path": "results/DeeperLonger4/My Behavior/My Behavior-7499975.onnx",
+                "reward": 1608.3505376974742,
+                "creation_time": 1649424109.3853595,
+                "auxillary_file_paths": [
+                    "results/DeeperLonger4/My Behavior/My Behavior-7499975.pt"
+                ]
+            },
+            {
+                "steps": 7999912,
+                "file_path": "results/DeeperLonger4/My Behavior/My Behavior-7999912.onnx",
+                "reward": 1480.4645335722944,
+                "creation_time": 1649426521.563898,
+                "auxillary_file_paths": [
+                    "results/DeeperLonger4/My Behavior/My Behavior-7999912.pt"
+                ]
+            },
+            {
+                "steps": 8499947,
+                "file_path": "results/DeeperLonger4/My Behavior/My Behavior-8499947.onnx",
+                "reward": 1196.1801122256688,
+                "creation_time": 1649428930.5035486,
+                "auxillary_file_paths": [
+                    "results/DeeperLonger4/My Behavior/My Behavior-8499947.pt"
+                ]
+            },
+            {
+                "steps": 8999969,
+                "file_path": "results/DeeperLonger4/My Behavior/My Behavior-8999969.onnx",
+                "reward": 301.5147099494934,
+                "creation_time": 1649431334.5286348,
+                "auxillary_file_paths": [
+                    "results/DeeperLonger4/My Behavior/My Behavior-8999969.pt"
+                ]
+            },
+            {
+                "steps": 9404526,
+                "file_path": "results/DeeperLonger4/My Behavior/My Behavior-9404526.onnx",
+                "reward": 1076.5721195220947,
+                "creation_time": 1649433279.9964914,
+                "auxillary_file_paths": [
+                    "results/DeeperLonger4/My Behavior/My Behavior-9404526.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 9404526,
+            "file_path": "results/DeeperLonger4/My Behavior.onnx",
+            "reward": 1076.5721195220947,
+            "creation_time": 1649433279.9964914,
+            "auxillary_file_paths": [
+                "results/DeeperLonger4/My Behavior/My Behavior-9404526.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.8.1+cu102"
+    }
+}
